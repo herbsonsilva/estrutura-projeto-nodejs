@@ -29,6 +29,7 @@
 <p align="center">
   <a href="#rocket-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#shrug-como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#books-dependências">Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-comandos-utilizados">Comandos utilizados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -47,6 +48,14 @@ Logo abaixo você encontrará a relação das dependências, ferramentas e exten
 
 Faça o download do arquivo .zip e descompacte-o em um local de sua preferência ou clone o repositório e, no terminal, na pasta raiz do projeto, digite o comando `yarn` para baixar todas as dependências necessárias.
 
+## :books: Dependências
+
+Nome | Ambiente | Descrição
+--- | --- | ---
+**`typescript`** | Desenvolvimento | Uso de tipos.
+**`express`** | Aplicação | Controle de rotas.
+**`@types/express`** | Desenvolvimento | Tipagens do express.
+
 ## :computer: Comandos utilizados
 
 Comando | Descrição
@@ -54,6 +63,10 @@ Comando | Descrição
 **`$ git init`** | Inicia o `controle de versão` do Git no projeto.
 **`$ touch .gitignore`** | Cria o arquivo `.gitignore` que conterá a lista de arquivos e pastas a serem ignorados no controle de versão do projeto.
 **`$ yarn init -y`** | Inicia o projeto criando o arquivo `package.json`
+**`$ yarn add typescript -D`** | Adiciona o `typescript` como dependência de desenvolvimento.
+**`$ yarn tsc --init`** | Inicializa o typescript criando o arquivo `tsconfig.json`
+**`$ yarn add express`** | Adiciona o `express` como dependência da aplicação.
+**`$ yarn add @types/express -D`** | Adiciona as declarações de tipos do `express` como dependência de desenvolvimento.
 
 ## :memo: LICENÇA
 
