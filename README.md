@@ -10,9 +10,9 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/herbsonsilva/estrutura-projeto-node?color=blueviolet">
 
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/herbsonsilva/estrutura-projeto-node?color=blueviolet">
-  
+
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/herbsonsilva/estrutura-projeto-node?color=blueviolet">
-  
+
   <a href="https://github.com/herbsonsilva/estrutura-projeto-node/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/herbsonsilva/estrutura-projeto-node?color=blueviolet">
   </a>
@@ -30,8 +30,9 @@
   <a href="#rocket-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#shrug-como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-dependências">Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-comandos-utilizados">Comandos utilizados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#scroll-licença">Licença</a>
 </p>
 
 ## :rocket: Sobre
@@ -57,10 +58,16 @@ Nome | Ambiente | Descrição
 **`@types/express`** | Desenvolvimento | Tipagens do express.
 **`ts-node-dev`** | Desenvolvimento | Converte typescript para javascript nativo e observa mudanças no código.
 
+## :wrench: Ferramentas
+
+Nome | Descrição
+--- | ---
+**`EditorConfig`** | Padroniza configurações entre diferentes editores de código.
+
 ## :computer: Comandos utilizados
 
 Comando | Descrição
---- | --- 
+--- | ---
 **`$ git init`** | Inicia o `controle de versão` do Git no projeto.
 **`$ touch .gitignore`** | Cria o arquivo `.gitignore` que conterá a lista de arquivos e pastas a serem ignorados no controle de versão do projeto.
 **`$ yarn init -y`** | Inicia o projeto criando o arquivo `package.json`
@@ -70,7 +77,7 @@ Comando | Descrição
 **`$ yarn add @types/express -D`** | Adiciona as declarações de tipos do `express` como dependência de desenvolvimento.
 **`$ yarn add ts-node-dev -D`** | Adiciona funcionalidades de `conversão de código` typescript para javascript nativo como dependência de desenvolvimento. Também `observa as mudanças` no código realizando restart automático.
 
-## :memo: LICENÇA
+## :scroll: LICENÇA
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../master/LICENSE) para mais detalhes.
 
