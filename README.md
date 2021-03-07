@@ -55,6 +55,7 @@ Nome | Ambiente | Descrição
 **`typescript`** | Desenvolvimento | Uso de tipos.
 **`express`** | Aplicação | Controle de rotas.
 **`@types/express`** | Desenvolvimento | Tipagens do express.
+**`ts-node-dev`** | Desenvolvimento | Converte typescript para javascript nativo e observa mudanças no código.
 
 ## :computer: Comandos utilizados
 
@@ -67,6 +68,7 @@ Comando | Descrição
 **`$ yarn tsc --init`** | Inicializa o typescript criando o arquivo `tsconfig.json`
 **`$ yarn add express`** | Adiciona o `express` como dependência da aplicação.
 **`$ yarn add @types/express -D`** | Adiciona as declarações de tipos do `express` como dependência de desenvolvimento.
+**`$ yarn add ts-node-dev -D`** | Adiciona funcionalidades de `conversão de código` typescript para javascript nativo como dependência de desenvolvimento. Também `observa as mudanças` no código realizando restart automático.
 
 ## :memo: LICENÇA
 
