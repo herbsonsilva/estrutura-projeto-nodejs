@@ -80,6 +80,7 @@ Comando | Descrição
 **`$ yarn add ts-node-dev -D`** | Adiciona funcionalidades de `conversão de código` typescript para javascript nativo como dependência de desenvolvimento. Também `observa as mudanças` no código realizando restart automático.
 **`$ yarn add eslint -D`** | Adiciona o `eslint` como dependência de desenvolvimento.
 **`$ yarn eslint --init`** | Inicializa o eslint criando o arquivo `.eslintrc.json`
+**`$ yarn add -D eslint-import-resolver-typescript`** | Adiciona ao eslint funcionalidade de reconhecimento de importação de arquivos typescript.
 
 ## :scroll: LICENÇA
 
