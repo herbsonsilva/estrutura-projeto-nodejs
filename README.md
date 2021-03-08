@@ -7,22 +7,22 @@
 *<blockquote align="center">“Motivação é o que te faz começar, hábito é o que te faz continuar!"</blockquote>*
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/herbsonsilva/estrutura-projeto-node?color=blueviolet">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/herbsonsilva/estrutura-projeto-nodejs?color=blueviolet">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/herbsonsilva/estrutura-projeto-node?color=blueviolet">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/herbsonsilva/estrutura-projeto-nodejs?color=blueviolet">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/herbsonsilva/estrutura-projeto-node?color=blueviolet">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/herbsonsilva/estrutura-projeto-nodejs?color=blueviolet">
 
-  <a href="https://github.com/herbsonsilva/estrutura-projeto-node/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/herbsonsilva/estrutura-projeto-node?color=blueviolet">
+  <a href="https://github.com/herbsonsilva/estrutura-projeto-nodejs/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/herbsonsilva/estrutura-projeto-nodejs?color=blueviolet">
   </a>
 
-  <a href="https://github.com/herbsonsilva/estrutura-projeto-node/blob/master/LICENSE">
+  <a href="https://github.com/herbsonsilva/estrutura-projeto-nodejs/blob/master/LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-blueviolet">
   </a>
 
-  <a href="https://github.com/herbsonsilva/estrutura-projeto-node/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/herbsonsilva/estrutura-projeto-node?style=social">
+  <a href="https://github.com/herbsonsilva/estrutura-projeto-nodejs/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/herbsonsilva/estrutura-projeto-nodejs?style=social">
   </a>
 </p>
 
