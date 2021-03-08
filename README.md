@@ -57,14 +57,16 @@ Nome | Ambiente | Descrição
 **`express`** | Aplicação | Controle de rotas.
 **`@types/express`** | Desenvolvimento | Tipagens do express.
 **`ts-node-dev`** | Desenvolvimento | Converte typescript para javascript nativo e observa mudanças no código.
-**`eslint`** | Desenvolvimento | Analisa o código para checar a sintaxe, encontrar problemas e forçar um estilo de código.
+**`eslint`** | Desenvolvimento | Analisa o código para checar a sintaxe, encontrar problemas e forçar um estilo de desenvolvimento.
+**`prettier`** | Desenvolvimento | Analisa o código para ajudar na padronização de estilo de desenvolvimento.
 
 ## :wrench: Ferramentas
 
 Nome | Descrição
 --- | ---
 **`EditorConfig`** | Padroniza configurações entre diferentes editores de código.
-**`ESLint`** | Analisa o código para checar a sintaxe, encontrar problemas e forçar um estilo de código.
+**`ESLint`** | Analisa o código para checar a sintaxe, encontrar problemas e forçar um estilo de desenvolvimento.
+**`Prettier`** | Analisa o código para ajudar na padronização de estilo de desenvolvimento.
 
 ## :computer: Comandos utilizados
 
@@ -81,6 +83,7 @@ Comando | Descrição
 **`$ yarn add eslint -D`** | Adiciona o `eslint` como dependência de desenvolvimento.
 **`$ yarn eslint --init`** | Inicializa o eslint criando o arquivo `.eslintrc.json`
 **`$ yarn add -D eslint-import-resolver-typescript`** | Adiciona ao eslint funcionalidade de reconhecimento de importação de arquivos typescript.
+**`$ yarn add -D prettier eslint-config-prettier eslint-plugin-prettier`** | Adiciona o `prettier` como dependência de desenvolvimento para ajudar o eslint na padronização de estilo de desenvolvimento.
 
 ## :scroll: LICENÇA
 
