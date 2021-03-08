@@ -2,11 +2,11 @@
 
 <h2 align="center">
   Estrutura inicial para projetos com Node.js
-</h2>s
+</h2>
 
-<blockquote align="center">“Motivação é o que te faz começar, hábito é o que te faz continuar!"</blockquote>
+*<blockquote align="center">“Motivação é o que te faz começar, hábito é o que te faz continuar!"</blockquote>*
 
-<br />
+<br>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/herbsonsilva/estrutura-projeto-nodejs?color=blueviolet">
