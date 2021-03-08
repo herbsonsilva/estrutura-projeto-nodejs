@@ -52,7 +52,7 @@ Faça o download do arquivo .zip e descompacte-o em um local de sua preferência
 ## :books: Dependências
 
 Nome | Ambiente | Descrição
---- | --- | ---
+:---: | :---: | ---
 **`typescript`** | Desenvolvimento | Uso de tipos.
 **`express`** | Aplicação | Controle de rotas.
 **`@types/express`** | Desenvolvimento | Tipagens do express.
@@ -63,7 +63,7 @@ Nome | Ambiente | Descrição
 ## :wrench: Ferramentas
 
 Nome | Descrição
---- | ---
+:---: | ---
 **`EditorConfig`** | Padroniza configurações entre diferentes editores de código.
 **`ESLint`** | Analisa o código para checar a sintaxe, encontrar problemas e forçar um estilo de desenvolvimento.
 **`Prettier`** | Analisa o código para ajudar na padronização de estilo de desenvolvimento.
@@ -82,7 +82,7 @@ Comando | Descrição
 **`$ yarn add ts-node-dev -D`** | Adiciona funcionalidades de `conversão de código` typescript para javascript nativo como dependência de desenvolvimento. Também `observa as mudanças` no código realizando restart automático.
 **`$ yarn add eslint -D`** | Adiciona o `eslint` como dependência de desenvolvimento.
 **`$ yarn eslint --init`** | Inicializa o eslint criando o arquivo `.eslintrc.json`
-**`$ yarn add -D eslint-import-resolver-typescript`** | Adiciona ao eslint funcionalidade de reconhecimento de importação de arquivos typescript.
+**`$ yarn add -D eslint-import-resolver-typescript`** | Adiciona ao eslint funcionalidade de `reconhecimento de importação` de arquivos typescript.
 **`$ yarn add -D prettier eslint-config-prettier eslint-plugin-prettier`** | Adiciona o `prettier` como dependência de desenvolvimento para ajudar o eslint na padronização de estilo de desenvolvimento.
 
 ## :scroll: LICENÇA
